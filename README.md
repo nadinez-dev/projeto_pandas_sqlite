@@ -18,5 +18,5 @@ Utiliza SQLite para armazenamento de dados e pandas para análise e visualizaç�
 
 ## Resultados esperados
     id    nome  idade     cidade
-0   1   Lucas     32   Curitiba
-1   2  Renata     28  São Paulo
+0   1   Lucas   32      Curitiba
+1   2   Renata  28      São Paulo
