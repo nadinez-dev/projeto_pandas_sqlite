@@ -1,7 +1,6 @@
 # Projeto : pandas + SQLite
 
 Este projeto foi criado para treinar o uso do SQLite e da biblioteca 'pandas' no Python.
-
 Este projeto foi desenvolvido como parte do meu aprendizado em manipulação de dados com Python.
 Utiliza SQLite para armazenamento de dados e pandas para análise e visualização.
 
